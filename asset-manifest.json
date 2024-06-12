@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/open-diversity/static/css/main.b2430133.css",
-    "main.js": "/open-diversity/static/js/main.a18bbf5a.js",
+    "main.js": "/open-diversity/static/js/main.a10ad989.js",
     "static/js/453.044dfc42.chunk.js": "/open-diversity/static/js/453.044dfc42.chunk.js",
     "index.html": "/open-diversity/index.html",
     "main.b2430133.css.map": "/open-diversity/static/css/main.b2430133.css.map",
-    "main.a18bbf5a.js.map": "/open-diversity/static/js/main.a18bbf5a.js.map",
+    "main.a10ad989.js.map": "/open-diversity/static/js/main.a10ad989.js.map",
     "453.044dfc42.chunk.js.map": "/open-diversity/static/js/453.044dfc42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2430133.css",
-    "static/js/main.a18bbf5a.js"
+    "static/js/main.a10ad989.js"
   ]
 }
