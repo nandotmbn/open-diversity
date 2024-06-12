@@ -5,13 +5,13 @@ function App() {
       <section className="h-screen w-screen bg-gradient-to-r from-primary to-secondary flex flex-col justify-between">
         <header className="p-8 flex flex-row">
           <div className="flex-1">
-            <img alt="logo" src="/logo.png" className="w-full" />
+            <img alt="logo" src="/open-diversity/logo.png" className="w-full" />
           </div>
           <div className="flex-1 md:flex-2 lg:flex-3"></div>
         </header>
         <div className="flex flex-col m-auto w-9/12 md:w-11/12 lg:w-9/12 gap-8 md:flex-row-reverse">
           <div className="md:flex-1 lg:flex-1">
-            <img alt="logo" src="/neuron.png" className="w-9/12 md:w-full m-auto" />
+            <img alt="logo" src="/open-diversity/neuron.png" className="w-9/12 md:w-full m-auto" />
           </div>
           <div className="w-full flex flex-col items-center md:flex-1 md:items-start">
             <h2 className="text-2xl lg:text-4xl font-semibold text-white">Pahami potensi indonesia</h2>
@@ -35,15 +35,15 @@ function App() {
       </section>
       <section className="py-2 text-center text-white w-screen flex flex-row justify-center items-center mt-8 gap-2">
         <div className="rounded-lg shadow-lg min-h-44 w-24 md:w-32 flex flex-col gap-2 p-2 md:p-4 items-center justify-between">
-          <img src="" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
+          <img src="/open-diversity" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
           <p className="text-primary font-semibold underline text-sm">Anies Baswedan</p>
         </div>
         <div className="rounded-lg shadow-lg min-h-44 w-24 md:w-32 flex flex-col gap-2 p-2 md:p-4 items-center justify-between">
-          <img src="" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
+          <img src="/open-diversity" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
           <p className="text-primary font-semibold underline text-sm">Gita Wirjawan</p>
         </div>
         <div className="rounded-lg shadow-lg min-h-44 w-24 md:w-32 flex flex-col gap-2 p-2 md:p-4 items-center justify-between">
-          <img src="" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
+          <img src="/open-diversity" alt="test" className="rounded-full h-20 w-20 shadow-lg" />
           <p className="text-primary font-semibold underline text-sm">Maudy Ayunda</p>
         </div>
       </section>
